@@ -22,7 +22,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
    */
 
   function rnd(num) {
-    return Math.round(num * 100) / 100;
+    return Math.round(num);
   }
 
   /*
